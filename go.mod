@@ -12,7 +12,7 @@ require (
 	github.com/go-logr/logr v0.1.0
 	github.com/google/wire v0.5.0
 	github.com/hexops/gotextdiff v1.0.3
-	github.com/onsi/ginkgo v1.14.1
+	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.10.2
 	github.com/segmentio/ksuid v1.0.3
 	go.uber.org/zap v1.10.0

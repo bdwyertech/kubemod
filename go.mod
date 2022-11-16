@@ -14,7 +14,7 @@ require (
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/onsi/ginkgo v1.14.1
 	github.com/onsi/gomega v1.10.2
-	github.com/segmentio/ksuid v1.0.3
+	github.com/segmentio/ksuid v1.0.4
 	go.uber.org/zap v1.10.0
 	gomodules.xyz/jsonpatch/v2 v2.0.1
 	k8s.io/apimachinery v0.18.6

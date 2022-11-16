@@ -2,14 +2,12 @@ module github.com/kubemod/kubemod
 
 go 1.13
 
-replace github.com/evanphx/json-patch/v5 v5.1.0 => github.com/vassilvk/json-patch/v5 v5.2.0-beta.4
-
 require (
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/PaesslerAG/gval v1.0.1
 	github.com/PaesslerAG/jsonpath v0.1.1 // indirect
 	github.com/alron/ginlogr v0.0.4
-	github.com/evanphx/json-patch/v5 v5.1.0
+	github.com/evanphx/json-patch/v5 v5.6.0
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-logr/logr v0.1.0
 	github.com/google/wire v0.5.0

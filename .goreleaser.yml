@@ -15,7 +15,7 @@ builds:
       - amd64
       - arm64
     flags:
-      - -mod=vendor
+      # - -mod=vendor
       - -trimpath
     ldflags:
       - -s -w

@@ -15,7 +15,7 @@ require (
 	github.com/onsi/ginkgo v1.14.1
 	github.com/onsi/gomega v1.10.2
 	github.com/segmentio/ksuid v1.0.3
-	go.uber.org/zap v1.10.0
+	go.uber.org/zap v1.23.0
 	gomodules.xyz/jsonpatch/v2 v2.0.1
 	k8s.io/apimachinery v0.18.6
 	k8s.io/client-go v0.18.6

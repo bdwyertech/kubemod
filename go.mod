@@ -8,7 +8,7 @@ require (
 	github.com/PaesslerAG/jsonpath v0.1.1 // indirect
 	github.com/alron/ginlogr v0.0.4
 	github.com/evanphx/json-patch/v5 v5.6.0
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.8.2
 	github.com/go-logr/logr v0.1.0
 	github.com/google/wire v0.5.0
 	github.com/hexops/gotextdiff v1.0.3

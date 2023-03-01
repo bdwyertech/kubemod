@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.2
-	github.com/PaesslerAG/gval v1.0.1
+	github.com/PaesslerAG/gval v1.2.2
 	github.com/PaesslerAG/jsonpath v0.1.1 // indirect
 	github.com/alron/ginlogr v0.0.4
 	github.com/evanphx/json-patch/v5 v5.6.0
